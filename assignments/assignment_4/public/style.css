@@ -1,0 +1,13 @@
+.true{
+    color:green;
+}
+.false{
+    color:red;
+}
+.null{
+    color: yellow;
+}
+.header{
+    font-size: 30px;
+    text-align: center;
+}
